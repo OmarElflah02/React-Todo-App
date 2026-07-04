@@ -50,6 +50,8 @@ src
 ├── components
 ├── context
 ├── layout
+├── lib
+├── pages
 ├── App.jsx
 ├── main.jsx
 └── index.css
